@@ -5,7 +5,6 @@
     ":dependencyDashboard",
     ":disableRateLimiting",
     "docker:enableMajor",
-    "docker:pinDigests",
     ":automergeDigest",
     ":enablePreCommit",
     "github>gucio1200/renovate-config:commit-message",
