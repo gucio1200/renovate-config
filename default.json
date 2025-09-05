@@ -19,5 +19,7 @@
   "rebaseWhen": "auto",
   "platformCommit": true,
   "separateMultipleMinor": true,
-  "separateMultipleMajor": true
+  "separateMultipleMajor": true,
+  "osvVulnerabilityAlerts": true,
+  "dependencyDashboardOSVVulnerabilitySummary": "all"
 }
