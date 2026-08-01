@@ -18,8 +18,8 @@
   "commitBodyTable": true,
   "rebaseWhen": "auto",
   "platformCommit": true,
-  "separateMultipleMinor": true,
-  "separateMultipleMajor": true,
-  "osvVulnerabilityAlerts": true,
+  "separateMultipleMinor": false,
+  "separateMultipleMajor": false,
+  "osvVulnerabilityAlerts": false,
   "dependencyDashboardOSVVulnerabilitySummary": "all"
 }
