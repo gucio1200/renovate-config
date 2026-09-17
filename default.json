@@ -6,6 +6,7 @@
     ":disableRateLimiting",
     "docker:enableMajor",
     ":enablePreCommit",
+    "github>gucio1200/renovate-config:automerge",
     "github>gucio1200/renovate-config:automerge-github-actions",
     "github>gucio1200/renovate-config:commit-message",
     "github>gucio1200/renovate-config:pr-labels",

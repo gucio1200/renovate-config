@@ -1,0 +1,12 @@
+{
+  "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+  "description": "Automerge patch updates (committed as fix)",
+  "packageRules": [
+    {
+      "matchUpdateTypes": ["patch"],
+      "automerge": true,
+      "automergeType": "branch",
+      "ignoreTests": true
+    }
+  ]
+}
